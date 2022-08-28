@@ -1,3 +1,5 @@
+"""A description of what the purpose of this module is."""
+
 import sys
 import os
 import threading
